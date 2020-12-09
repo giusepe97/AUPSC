@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P1 Old Footprint=HEADER_M_2x3_2.54 New Footprint=HEADER_M_2x3_2.54
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CP_22.5mm_tht"; UniqueID = "\GJHJEOZN" ("\GJHJEOZN")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component P1 826925-3

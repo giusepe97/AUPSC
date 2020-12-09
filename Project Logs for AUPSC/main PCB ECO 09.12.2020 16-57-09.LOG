@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=MEASUREMENT_INPUT Pin=C11-2
+Added Member To Class: ClassName=main Member=Component P1 826925-3
